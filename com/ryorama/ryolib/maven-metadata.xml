@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="4.0.0">
+  <groupId>com.ryorama</groupId>
+  <artifactId>ryolib</artifactId>
+  <version>1.19</version>
+  <versioning>
+    <latest>1.19</latest>
+    <versions>
+      <version>1.19</version>
+    </versions>
+    <lastUpdated>20230109</lastUpdated>
+  </versioning>
+  <version>1.18</version>
+  <versioning>
+    <latest>1.18</latest>
+    <versions>
+      <version>1.18</version>
+    </versions>
+    <lastUpdated>20230109</lastUpdated>
+  </versioning>
+</metadata>
